@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/HUST/LaptrinhAndroid/Codelab/AndroidHUST/HelloToast/app/src/main/res/layout/activity_main.xml" value="0.13214285714285715" />
+        <entry key="..\:/HUST/LaptrinhAndroid/Codelab/AndroidHUST/HelloToast/app/src/main/res/layout-land/activity_main.xml" value="0.21957671957671956" />
+        <entry key="..\:/HUST/LaptrinhAndroid/Codelab/AndroidHUST/HelloToast/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.19453125" />
+        <entry key="..\:/HUST/LaptrinhAndroid/Codelab/AndroidHUST/HelloToast/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
