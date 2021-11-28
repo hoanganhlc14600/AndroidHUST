@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chuyencoso</string>
+    <string-array name="coso">
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Decimal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+</resources>
