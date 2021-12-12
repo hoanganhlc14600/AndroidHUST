@@ -43,7 +43,7 @@
         android:id="@+id/time"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:text="12:35 PM"
+        android:text="5:39 PM"
         app:layout_constraintBottom_toTopOf="@+id/content"
         app:layout_constraintEnd_toEndOf="@+id/content"
         app:layout_constraintTop_toTopOf="@+id/name" />
