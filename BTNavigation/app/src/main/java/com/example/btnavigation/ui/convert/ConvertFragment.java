@@ -19,7 +19,7 @@ import com.example.btnavigation.databinding.FragmentConvertBinding;
 
 public class ConvertFragment extends Fragment {
     private FragmentConvertBinding binding;
-
+    log.c
     TextView input, output;
     Spinner from, to;
     String in, coso1,coso2;
